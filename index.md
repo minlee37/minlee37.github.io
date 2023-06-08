@@ -4,6 +4,8 @@
 
 ### Retail Big Data Analysis
 
+With the large volume and increased complexity of data in the retail industry, Big Data analysis is imperative for organizations to gain competitive advantage. In this project, I have created tables using Online Retail Customer Segmentation dataset uploaded to AWS S3 Bucket to carry out preliminary analysis and visualization of data using Apache Hive.
+
 Figure 1. Top 10 countries with most number of customers
 
 <img src="images/customer_geographical_viz.png?raw=true"/>
@@ -12,13 +14,11 @@ Figure 2. Top 5 countries with highest quantity and sales
 
 <img src="images/qty_sold_total_sales.png?raw=true" width=500/>
 
-[Link to SQL code placeholder]
-
 ---
 
 ### Predictions of Particulate Matter
 
-Making accurate predictions of particulate matter (PM) is a crucial task as PM is considered to have the strongest correlation with the effects of cardiovascular disease. In this project, I built models based on multi-layer perceptron (MLP) and long short-term memory (LSTM) to predict PM levels.
+Making accurate predictions of particulate matter (PM) is a crucial task as PM is considered to have the strongest correlation with the effects of cardiovascular disease. In this project, I have used Python to build Machine Learning models based on multi-layer perceptron (MLP) and long short-term memory (LSTM) to predict PM levels.
 
 Figure 1. PM10 between Jan 19 - Dec 21 by year and months
 
