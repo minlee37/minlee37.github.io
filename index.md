@@ -35,6 +35,8 @@ Figure 1. PM10 between Jan 19 - Dec 21 by year and month
 
 ### Expenses Dashbaord
 
+In this project, I have built Dashboards and Story to visualize expenses data using Tableau.
+
 <img src="images/tableau_dashboard.png?raw=true"/>
 
 ---
