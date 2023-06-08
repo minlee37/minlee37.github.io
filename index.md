@@ -1,4 +1,4 @@
-## Projects using Apache Hive on AWS, Python and Tableau
+## Data Projects using Apache Hive on AWS, Python and Tableau
 
 ---
 
