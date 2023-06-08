@@ -20,7 +20,7 @@ Figure 2. Top 5 countries with highest quantity and sales
 
 Making accurate predictions of particulate matter (PM) is a crucial task as PM is considered to have the strongest correlation with the effects of cardiovascular disease. In this project, I have used Python to build Machine Learning models based on multi-layer perceptron (MLP) and long short-term memory (LSTM) to predict PM levels.
 
-Figure 1. PM10 between Jan 19 - Dec 21 by year and months
+Figure 1. PM10 between Jan 19 - Dec 21 by year and month
 
 <img src="images/pm_by_year_months.png?raw=true"/>
 
@@ -33,8 +33,11 @@ Figure 1. PM10 between Jan 19 - Dec 21 by year and months
 
 ---
 
-Work In Progress...
+### Expenses Dashbaord
+
+<img src="images/tableau_dashboard.png?raw=true"/>
 
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attribute -->
