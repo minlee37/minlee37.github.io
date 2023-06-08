@@ -6,7 +6,11 @@
 
 <img src="images/customer_geographical_viz.png?raw=true"/>
 
-<img src="images/qty_sold_total_sales.png?raw=true"/>
+**Figure 1. Top 10 countries with most number of customers**
+
+<img src="images/qty_sold_total_sales.png?raw=true" width=500/>
+
+**Figure 2. Top 5 countries with highest quantity and sales**
 
 [Link to SQL code placeholder]
 
