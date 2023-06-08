@@ -4,7 +4,7 @@
 
 ### Retail Big Data Analytics
 
-With the large volume and increased complexity of data in the retail industry, Big Data Analytics is imperative for organizations to gain competitive advantage. In this project, I have created tables using Online Retail Customer Segmentation dataset uploaded to AWS S3 Bucket to carry out preliminary analysis and visualization of data using Apache Hive.
+With the large volume and increased complexity of data in the retail industry, Big Data Analytics is imperative for organisations to gain competitive advantage. In this project, I have created tables using Online Retail Customer Segmentation dataset uploaded to AWS S3 Bucket to carry out preliminary analysis and visualisation of data using Apache Hive.
 
 Figure 1. Top 10 countries with most number of customers
 
@@ -33,9 +33,11 @@ Figure 1. PM10 between Jan 19 - Dec 21 by year and month
 
 ---
 
-### Expenses Dashbaord
+### Expenses Dashboard
 
-In this project, I have built Dashboards and Story to visualize expenses data using Tableau.
+In this project, I have built Dashboards and Story to visualise expenses data using Tableau.
+
+Figure 1. Expenses by various categories
 
 <img src="images/tableau_dashboard.png?raw=true"/>
 
