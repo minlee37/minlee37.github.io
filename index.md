@@ -1,29 +1,20 @@
-## Portfolio
+## Machine learning projects using Python
 
 ---
 
-### Category Name 1 
+### Predictions of Particulate Matter
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Making accurate predictions of particulate matter (PM) is a crucial task as PM is currently considered to have the strongest correlation with the effects of cardiovascular disease. In this project, I built predictions models based on multi-layer perceptron (MLP) and long short-term memory (LSTM) to predict PM levels.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pm_by_year_months.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Colab](https://colab.research.google.com/drive/134QM8Ah_wwNK0vpZb3M9A6XkpY9PJLy2?usp=sharing)
 
 ---
 
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
