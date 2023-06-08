@@ -4,13 +4,13 @@
 
 ### Retail Big Data Analysis
 
+Figure 1. Top 10 countries with most number of customers
+
 <img src="images/customer_geographical_viz.png?raw=true"/>
 
-**Figure 1. Top 10 countries with most number of customers**
+Figure 2. Top 5 countries with highest quantity and sales
 
 <img src="images/qty_sold_total_sales.png?raw=true" width=500/>
-
-**Figure 2. Top 5 countries with highest quantity and sales**
 
 [Link to SQL code placeholder]
 
@@ -19,6 +19,8 @@
 ### Predictions of Particulate Matter
 
 Making accurate predictions of particulate matter (PM) is a crucial task as PM is considered to have the strongest correlation with the effects of cardiovascular disease. In this project, I built models based on multi-layer perceptron (MLP) and long short-term memory (LSTM) to predict PM levels.
+
+Figure 1. PM10 between Jan 19 - Dec 21 by year and months
 
 <img src="images/pm_by_year_months.png?raw=true"/>
 
