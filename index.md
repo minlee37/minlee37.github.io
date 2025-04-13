@@ -10,7 +10,7 @@ In this project, I have carried out an end to end data project delivering insigh
 3. Using SQL and SSIS to implment ETL pipelines.
 4. Creating SSRS reports and Power BI to deliver insights for user consumption.
 
-Figure 1. Snow Schema Model
+Figure 1. Star Schema Model
 
 <img src="images/snow_schema_model.png?raw=true"/>
 
