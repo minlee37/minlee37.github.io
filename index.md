@@ -6,7 +6,7 @@
 
 In this project, I have carried out an end to end data project delivering insights into the Australian Property market by:
 1. Using SSMS to import raw data and carrying out exploratory analysis
-2. Applying Kimball Methodology (Bus Matrix, Snow Schema) to design data models for warehousing solution.
+2. Applying Kimball Methodology (Bus Matrix, Star Schema) to design data models for warehousing solution.
 3. Using SQL and SSIS to implment ETL pipelines.
 4. Creating SSRS reports and Power BI to deliver insights for user consumption.
 
