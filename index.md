@@ -2,6 +2,28 @@
 
 ---
 
+### Australian Property Market Analytics
+
+In this project, I have carried out an end to end data project delivering insights into the Australian Property market by:
+1. Using SSMS to import raw data and carrying out exploratory analysis
+2. Applying Kimball Methodology (Bus Matrix, Snowflake) to design data models for warehousing solution.
+3. Using SQL and SSIS to implment ETL pipelines.
+4. Creating SSRS reports and Power BI to deliver insights for user consumption.
+
+Figure 1. Snowflake Schema Model
+
+<img src="images/snowflake_schema_model.png?raw=true"/>
+
+Figure 2. Data Pipeline in SSIS
+
+<img src="images/data_pipeline.png?raw=true"/>
+
+Figure 3. Summary Dashboard in Power BI
+
+<img src="images/dashboard_summary.png?raw=true"/>
+
+---
+
 ### Retail Big Data Analytics
 
 With the large volume and increased complexity of data in the retail industry, Big Data Analytics is imperative for organisations to gain competitive advantage. In this project, I have created tables using Online Retail Customer Segmentation dataset uploaded to AWS S3 Bucket to carry out preliminary analysis and visualisation of data using Apache Hive.
